@@ -8,7 +8,7 @@ The analysis aims to provide insights that help the decision makers in deciding 
 - Keep the old webpage, or
 - Expand the scope of the A/B testing
 
-  ![](AB-testing-dataset/snapshot-histogram.png)
+  ![](AB-testing-dataset/snapshot-distribution-histogram.png)
 
 #Methodology:
   The analysis is devided into 3 sections:

@@ -12,8 +12,7 @@ The analysis aims to provide insights that help the decision makers in deciding 
 
 # Methodology:
   The analysis is devided into 3 sections:
-  - Exploraty Data Analysis (EDA)
-  - Data cleaning
+  - Exploraty Data Analysis (EDA) and Data cleaning
   - Probability Analysis
   - A/B Hypothesis Testing (via Bootstrapping)
  

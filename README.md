@@ -1,4 +1,4 @@
-# A/B Testing Analysis for an Ecommerce Website
+# A/B Testing Analysis for an E-commerce Website
 
 This work is an analysis of A/B test results provided from an e-commerce website to test the user response to a new webpage design.
 
